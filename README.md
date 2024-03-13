@@ -1,44 +1,27 @@
-# ML_Project
+# EnergyIQ Tracker
 This repository is for a course Project in Machine Learning
 
 # Electricity Consumption For Household Appliances
-In today’s world, increasing energy consumption and its
-impact on the environment demand innovative solutions.
-Traditional methods of tracking household electricity usage
-lack granularity, failing to provide insights into specific appliance consumption patterns. This often leads to inefficient
-energy utilization and higher bills. Our project aims to address these challenges through advanced machine-learning
-techniques. By leveraging submeter readings and regression
-models, we can accurately predict and categorize electricity consumption by individual appliances. This empowers
-homeowners with precise insights, enabling them to optimize energy usage, reduce costs, and contribute to a more
-sustainable future.
+- Increasing energy consumption and environmental impact necessitate innovative solutions.
+- Traditional methods of tracking household electricity lack detail, resulting in inefficient energy use and higher bills.
+- Our project utilizes advanced machine-learning techniques to address these challenges.
+- By leveraging submeter readings and regression models, we accurately predict and categorize electricity consumption by individual appliances.
+- This empowers homeowners with precise insights to optimize energy usage, reduce costs, and contribute to sustainability.
 
 # Our goal
-Our project aims to harness the power of diverse
-machine-learning techniques to create an adept model for
-predicting household electricity consumption. By employing submeter readings from distinct appliances, our model
-endeavors to dissect energy usage patterns accurately, granting homeowners unprecedented insights into their consumption behaviors.
-
-
-Upon culmination, we anticipate achieving a refined,
-high-performing model that maximizes prediction accuracy
-and provides a clear framework for identifying energy-hungry appliances and optimizing their usage. This outcome holds the potential to revolutionize energy management practices, offering individuals the means to curb
-wasteful consumption, trim expenses, and contribute to a
-greener environment. Furthermore, our model’s versatility extends its applications beyond households, finding utility in sectors such as smart grid management and energyefficient urban planning. Ultimately, this endeavor aspires
-to empower individuals and communities to make informed
-decisions, fostering a sustainable future, and mitigating the
-the ecological footprint of electricity consumption.
+- Our project employs diverse machine-learning techniques to predict household electricity usage accurately.
+- Analyzing submeter readings from various appliances enables us to understand energy usage patterns and consumption behaviors.
+- We aim to develop a high-performing model that identifies energy-hungry appliances and optimizes usage.
+- This initiative could revolutionize energy management, promoting sustainability and cost reduction.
+- The model's versatility extends to smart grid management and energy-efficient urban planning.
+- Ultimately, our goal is to empower individuals and communities to make informed decisions and reduce the ecological footprint of electricity consumption.
 
 # Dataset
-Dataset details with data preprocessing techniques.
-This dataset offers a valuable resource. It comprises six
-months of electricity consumption records for a household,
-spanning from January 2007 to June 2007. The dataset encompasses various metrics, including global active power,
-global reactive power, voltage, and global intensity, as well
-as sub-metering data for specific areas within the home,
-such as the kitchen, laundry room, and electric water heater
-and air conditioner. With a total of 260,640 measurements,
-this dataset serves as a valuable tool for comprehending and
-analyzing patterns in household electricity consumption.
+- The dataset contains six months of electricity consumption records from January 2007 to June 2007 for a household.
+- It includes various metrics such as global active power, global reactive power, voltage, and global intensity.
+- Sub-metering data is available for specific areas within the home, including the kitchen, laundry room, electric water heater, and air conditioner.
+- With a total of 260,640 measurements, this dataset is valuable for comprehending and analyzing patterns in household electricity consumption.
+- Data preprocessing techniques have been applied to ensure the dataset's quality and usability for analysis.
 ![image](https://github.com/Shivansh20128/Electricity-Consumption-for-Household-Appliances/assets/88429611/c1b07430-9dbe-4fa2-a10e-7c569716b695)
 
 # Methodology
