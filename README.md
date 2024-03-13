@@ -82,9 +82,10 @@ After trying out all the regression models, we collected
 results for all of them and compared them using established
 metrics like MSE, RMSE, and R2 Score. Random Forest gave us
 the best results.
+![image](https://github.com/twoChar/EnergyIQ-Tracker/assets/88621271/bf6ac698-a212-462f-a972-9b9a83386fb2)
+![image](https://github.com/twoChar/EnergyIQ-Tracker/assets/88621271/cf73e8fa-c8bc-4551-ab0e-60f9ff941003)
 
-![image](https://github.com/twoChar/EnergyIQ-Traker/assets/88429611/cc790afb-febd-42ef-a770-080079c56684)
 
-![image](https://github.com/twoChar/EnergyIQ-Traker/assets/88429611/cd0ce565-244d-4f99-81c1-ed7465561d69)
+
 
 
