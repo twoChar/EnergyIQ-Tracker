@@ -1,6 +1,9 @@
 # EnergyIQ Tracker
 This repository is for a course Project in Machine Learning
 
+![image](https://github.com/twoChar/EnergyIQ-Tracker/assets/88621271/bf6ac698-a212-462f-a972-9b9a83386fb2)
+![image](https://github.com/twoChar/EnergyIQ-Tracker/assets/88621271/cf73e8fa-c8bc-4551-ab0e-60f9ff941003)
+
 # Electricity Consumption For Household Appliances
 - Increasing energy consumption and environmental impact necessitate innovative solutions.
 - Traditional methods of tracking household electricity lack detail, resulting in inefficient energy use and higher bills.
@@ -82,8 +85,7 @@ After trying out all the regression models, we collected
 results for all of them and compared them using established
 metrics like MSE, RMSE, and R2 Score. Random Forest gave us
 the best results.
-![image](https://github.com/twoChar/EnergyIQ-Tracker/assets/88621271/bf6ac698-a212-462f-a972-9b9a83386fb2)
-![image](https://github.com/twoChar/EnergyIQ-Tracker/assets/88621271/cf73e8fa-c8bc-4551-ab0e-60f9ff941003)
+
 
 
 
